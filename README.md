@@ -1,1 +1,3 @@
 # GoogleCalendar_chatbot
+
+GoogleCalendarからその日の予定を取得して指定した時間にLIMEに通知するLineBOTです．
